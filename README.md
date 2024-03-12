@@ -1,4 +1,6 @@
-# Simulation-based prior knowledge elicitation for parametric Bayesian models
+# :warning: This project has been moved to a new [repository](https://github.com/florence-bockting/PriorLearning) with additional project [website](https://florence-bockting.github.io/PriorLearning/) :warning:
+
+## Simulation-based prior knowledge elicitation for parametric Bayesian models
 
 *Abstract:* 
 A central characteristic of Bayesian statistics is the ability to consistently incorporate prior knowledge into various modeling processes. In this paper, we focus on translating domain expert knowledge into corresponding prior distributions over model parameters, a process known as prior elicitation. Expert knowledge can manifest itself in diverse formats, including information about raw data, summary statistics, or model parameters. A major challenge for existing elicitation methods is how to effectively utilize all of these different formats in order to formulate prior distributions that align with the expert's expectations, regardless of the model structure. 
